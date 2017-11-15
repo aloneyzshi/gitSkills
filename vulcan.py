@@ -1,2 +1,2 @@
-#!/usr/bin/env
+#!/usr/bin/envvv
 feature-vulcan
